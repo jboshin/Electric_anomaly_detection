@@ -4,6 +4,9 @@
   * 使用時間序列方法與四分位距進行異常檢測測試
 * vn_kmeans.py
   * 使用Kmeans進行異常檢測測試
+## 主要使用套件
+* pandas
+* matplotlib
 ## 成果
 ### 時間序列方法
 ![image](https://user-images.githubusercontent.com/109200788/178962620-d010cc45-dc28-4190-b362-39e0cd8f6b9e.png)
