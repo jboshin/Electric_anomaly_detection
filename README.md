@@ -7,6 +7,8 @@
 ## 主要使用套件
 * pandas
 * matplotlib
+* sklearn
+* numpy
 ## 成果
 ### 時間序列方法
 ![image](https://user-images.githubusercontent.com/109200788/178962620-d010cc45-dc28-4190-b362-39e0cd8f6b9e.png)
